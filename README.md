@@ -1,4 +1,5 @@
-#### Hi there 👋, I'm Jameem,
+#### In love with programming since 'Hello world' `:heart:` 👋,
+I'm Jameem. I have been in love with programming ever since I wrote my first line of code to print 'hello world'.. I am fullstack javascript developer
  
 
 <!--
