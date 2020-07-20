@@ -1,5 +1,11 @@
-#### In love with programming since 'Hello world' `:heart:` 👋,
-I'm Jameem. I have been in love with programming ever since I wrote my first line of code to print 'hello world'.. I am fullstack javascript developer
+#### Hi there 👋,
+I'm Jameem. I have been in love with programming ever since I wrote my first line of code to print 'hello world'. I'm an advocate for people-first, collaborative company culture, constant learning and open-source tools.
+
+- 🔭 I’m currently working on ERP applications on NodeJS with Express, ReactJS, Postgres and AWS.
+- 🌱 I’m currently learning Microservice architecture.
+- 📫 How to reach me: 
+     LinkedIn: https://www.linkedin.com/in/jameem/
+
  
 
 <!--
