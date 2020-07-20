@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://jameem.github.io/profile/images/hi_there.gif" alt="banner"/>
 <!--
 **Jameem/jameem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
