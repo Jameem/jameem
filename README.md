@@ -7,6 +7,8 @@ I'm Jameem. I have been in love with programming ever since I wrote my first lin
      LinkedIn: https://www.linkedin.com/in/jameem/     
      
      ![Jameem's github stats](https://github-readme-stats.vercel.app/api?username=jameem&show_icons=true&theme=radical)
+     
+     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=chit-fund)](https://github.com/jameem/chit-fund)
 
  
 
