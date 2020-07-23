@@ -10,6 +10,7 @@ I'm Jameem. I have been in love with programming ever since I wrote my first lin
      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameem&theme=radical&hide_langs_below=1)
      
      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=chit-fund&theme=radical)](https://github.com/jameem/chit-fund)
+     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=job-chain&theme=radical)](https://github.com/jameem/job-chain)
 
  
 
