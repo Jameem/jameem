@@ -1,5 +1,5 @@
 #### Hi there 👋,
-I'm Jameem. I have been in love with programming ever since I wrote my first line of code to print 'hello world'. I'm an advocate for people-first, collaborative company culture, constant learning and open-source tools.
+I'm Jameem. I develop things for the web.
 
 - 🔭 I’m currently working on ERP applications on NodeJS with Express, ReactJS, Postgres and AWS.
 - 🌱 I’m currently learning Microservice architecture.
@@ -8,6 +8,7 @@ I'm Jameem. I have been in love with programming ever since I wrote my first lin
      
      [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jameem_mohd) 
      [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameem/) 
+     [<img src="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />](https://jameem.github.io/profile/) 
      
      
      ![Jameem's github stats](https://github-readme-stats.vercel.app/api?username=jameem&show_icons=true&theme=radical)
