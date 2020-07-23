@@ -1,5 +1,6 @@
 <img src="https://jameem.github.io/profile/images/banner.png">
-#### Hi there 👋,
+
+### Hi there 👋,
 I'm Jameem. I develop things for the web.
 
 - 🔭 I’m currently working on ERP applications on NodeJS with Express, ReactJS, Postgres and AWS.
