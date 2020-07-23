@@ -6,7 +6,9 @@ I'm Jameem. I have been in love with programming ever since I wrote my first lin
 - 📫 How to reach me: 
      LinkedIn: https://www.linkedin.com/in/jameem/
      
-     [![Jameem's github stats](https://github-readme-stats.vercel.app/api?username=jameem)](https://github.com/jameem/github-readme-stats)
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameem&hide_langs_below=1&theme=radical)](https://github.com/jameem/github-readme-stats)
+     
+     
 
  
 
