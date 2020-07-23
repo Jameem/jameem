@@ -4,11 +4,9 @@ I'm Jameem. I have been in love with programming ever since I wrote my first lin
 - 🔭 I’m currently working on ERP applications on NodeJS with Express, ReactJS, Postgres and AWS.
 - 🌱 I’m currently learning Microservice architecture.
 - 📫 How to reach me: 
-     LinkedIn: https://www.linkedin.com/in/jameem/
+     LinkedIn: https://www.linkedin.com/in/jameem/     
      
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameem&hide_langs_below=1&theme=radical)](https://github.com/jameem/github-readme-stats)
-     
-     
+     ![Jameem's github stats](https://github-readme-stats.vercel.app/api?username=jameem&show_icons=true&theme=radical)
 
  
 
