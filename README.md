@@ -1,10 +1,12 @@
 <img src="https://jameem.github.io/profile/images/banner2.jpg">
 
 ### Hi there 👋,
-I'm Jameem. I develop things for the web.
+I'm Jameem and I develop things for the web. I have been in love with programming ever since I wrote my first line of code to print "Hello world". I am very much enthusiastic about the prospects of blockchain technology and have been experimenting on Ethereum. 
 
-- 🔭 I’m currently working on ERP applications on NodeJS with Express, ReactJS, Postgres and AWS.
+- 🔭 I’m currently working on Enterprise Resource Planning applications on NodeJS with Express, ReactJS, Postgres and AWS.
 - 🌱 I’m currently learning Microservice architecture.   
+- 👯 I’m looking to collaborate on blockchain projects. 
+- 📫 How to reach me,
      
      [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jameem_mohd) 
      [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameem/) 
