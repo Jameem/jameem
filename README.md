@@ -4,7 +4,7 @@
 I'm Jameem and I develop things for the web. I have been in love with programming ever since I wrote my first line of code to print "Hello world". I am always passionate about learning new things and here is where I keep the projects. I am very enthusiastic about the prospects of blockchain technology and have been experimenting on Ethereum. 
 
 - 🔭 I’m currently working on Enterprise Resource Planning applications on NodeJS with Express, ReactJS, Postgres and AWS.
-- 🌱 I’m currently learning Microservice architecture, Blockchain development and many more.   
+- 🌱 I’m currently learning Microservice architecture, Blockchain development, Kubernetes and many more.   
 - 👯 I’m looking to collaborate on blockchain projects. 
 - 📫 How to reach me,
      
