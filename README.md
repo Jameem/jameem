@@ -3,9 +3,10 @@
 ### Hello world 👋,
 I'm Jameem and I develop things for the web. I have been in love with programming ever since I wrote my first line of code to print "Hello world". I'm always passionate about learning new things and here is where I keep the projects. I'm very enthusiastic about the prospects of blockchain technology and have been experimenting on Ethereum networks. 
 
-- 🔭 I’m currently working on Enterprise Resource Planning applications on NodeJS with Express, ReactJS, Postgres and AWS.
-- 🌱 I’m currently learning Microservice architecture, Blockchain development, Kubernetes and more...
-- 👯 I’m looking to collaborate on blockchain projects. 
+- 🔭 I’m currently working on **Enterprise Resource Planning applications** on NodeJS with Express, ReactJS, Postgres and AWS.
+- 🌱 I’m currently learning **Microservice architecture, Blockchain development, Kubernetes and more...**
+- 👯 I’m looking to collaborate on **blockchain** projects. 
+- 👨‍💻 My projects are available at [https://jameem.github.io/portfolio/](https://jameem.github.io/portfolio/)
 - 📫 How to reach me,
      
      [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jameem_mohd) 
