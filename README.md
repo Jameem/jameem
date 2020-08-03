@@ -14,7 +14,7 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      
      
      ![Jameem's github stats](https://github-readme-stats.vercel.app/api?username=jameem&show_icons=true&theme=radical)
-     <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameem&theme=radical&hide_langs_below=1)-->
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameem&theme=radical&hide_langs_below=1)
      
      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=chit-fund&theme=radical)](https://github.com/jameem/chit-fund)
      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=job-chain&theme=radical)](https://github.com/jameem/job-chain)
