@@ -13,6 +13,16 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameem/) 
      [<img src="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />](https://jameem.github.io/profile/) 
      
+     
+     
+     <p align="center"></p>
+     
+     ![Jameem's github stats](https://github-readme-stats.vercel.app/api?username=jameem&show_icons=true&theme=radical&hide=prs,contribs)
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameem&theme=radical&hide=css,shell,php)
+     
+     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=chit-fund&theme=radical)](https://github.com/jameem/chit-fund)
+     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=donate-crypto&theme=radical)](https://github.com/jameem/donate-crypto)
+     
      <p align="left">
      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
@@ -27,14 +37,6 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="35" height="35"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>    
      </p>
-     
-     <p align="center"></p>
-     
-     ![Jameem's github stats](https://github-readme-stats.vercel.app/api?username=jameem&show_icons=true&theme=radical&hide=prs,contribs)
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameem&theme=radical&hide=css,shell,php)
-     
-     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=chit-fund&theme=radical)](https://github.com/jameem/chit-fund)
-     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=donate-crypto&theme=radical)](https://github.com/jameem/donate-crypto)
 
  
 
