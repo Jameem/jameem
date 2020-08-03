@@ -1,6 +1,6 @@
 <img src="https://jameem.github.io/profile/images/banner2.jpg">
 
-### Hi there 👋,
+### Hello world 👋,
 I'm Jameem and I develop things for the web. I have been in love with programming ever since I wrote my first line of code to print "Hello world". I'm always passionate about learning new things and here is where I keep the projects. I'm very enthusiastic about the prospects of blockchain technology and have been experimenting on Ethereum networks. 
 
 - 🔭 I’m currently working on Enterprise Resource Planning applications on NodeJS with Express, ReactJS, Postgres and AWS.
