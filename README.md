@@ -36,7 +36,7 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/>      
      <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="35" height="35"/> 
      <img src="https://icon-library.com/images/ethereum-icon/ethereum-icon-1.jpg" alt="ethereum" width="25" />   
-     <img src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png"                       alt="solidity" width="25"/>
+     <img src="https://camo.githubusercontent.com/97c7c875e3c9bd3501af37c650ca7dd204193fc0/687474703a2f2f736f6c69646974792e72656164746865646f63732e696f2f656e2f76302e342e32342f5f696d616765732f6c6f676f2e737667"                       alt="solidity" width="25"/>
      </p>
 
  
