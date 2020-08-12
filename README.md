@@ -6,7 +6,7 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
 - 🔭 I’m currently working on **Enterprise Resource Planning applications** on NodeJS with Express, ReactJS, Postgres and AWS.
 - 🌱 I’m currently learning **Microservice architecture, Blockchain development, Kubernetes and more...**
 - 👯 I’m looking to collaborate on **blockchain** projects. 
-- 👨‍💻 My projects are available at [https://jameem.github.io/portfolio/](https://jameem.github.io/portfolio/)
+- 👨‍💻 My projects are available at [http://jameem.me/](http://jameem.me/)
 - 📫 How to reach me,
      
      [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jameem_mohd) 
