@@ -22,6 +22,7 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=chit-fund&theme=radical)](https://github.com/jameem/chit-fund)
      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=donate-crypto&theme=radical)](https://github.com/jameem/donate-crypto)
      
+     <!--
      <p align="center">
      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/> 
@@ -37,7 +38,7 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      <img src="https://icon-library.com/images/ethereum-icon/ethereum-icon-1.jpg" alt="ethereum" width="20" />   
      <img src="https://jameem.github.io/images/solidity.svg" alt="solidity" width="35"/>
      </p>
-
+     -->
  
 
 <!--
