@@ -4,7 +4,7 @@
 I'm Jameem and I develop things for the web. I have been in love with programming ever since I wrote my first line of code to print "Hello world". I'm always passionate about learning new things and here is where I keep my works.
 
 - 🔭 Working on **Enterprise Resource Planning applications** on NodeJS with Express, ReactJS, Postgres and AWS.
-- 🌱 I’m currently learning **Microservice architecture, Blockchain development, Kubernetes and more...**
+- 🌱 Learning **Microservice architecture, Blockchain development, Kubernetes and more...**
 - 👨‍💻 My works are available at [https://jameem.me](https://jameem.me)
 - 📫 How to reach me,
      
