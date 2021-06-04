@@ -6,7 +6,7 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
 - 🔭 Working on **Enterprise Resource Planning applications** on NodeJS with Express, ReactJS, Postgres and AWS.
 - 🌱 Learning **Microservice architecture, Devops, Blockchain development and more...**
 - 👨‍💻 My works are available at [https://jameem.me](https://jameem.me)
-- 🔭 Explore Zinia BSuite, managing business for small scale industries http://app.zinia.tech
+- 🔭 Explore Zinia BSuite, managing business for small scale enterprises http://app.zinia.tech
 - 📫 Reach me through,
      
      [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jameem_mohd) 
