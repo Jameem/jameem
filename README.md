@@ -4,7 +4,7 @@
 I'm Jameem and I develop things for the web. I have been in love with programming ever since I wrote my first line of code to print "Hello world". I'm always passionate about learning new things and here is where I keep my works.
 
 - 🔭 Working on **Enterprise Resource Planning applications** on NodeJS with Express, ReactJS, Postgres and AWS.
-- 🌱 Exploring **Microservice architecture, Devops, Blockchain development and more...**
+- 🌱 Excited about **Blockchain Technology**
 - 👨‍💻 My works are available at [https://jameem.me](https://jameem.me)
 - 🔭 Explore my recent work, Zinia BSuite - managing business for small scale enterprises, http://zinia.tech
 - 📫 Reach me through,
