@@ -37,6 +37,5 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/>      
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="35" height="35"/> 
      </p>
      -->
