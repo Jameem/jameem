@@ -34,6 +34,5 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> 
      <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> 
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/> 
      </p>
      -->
