@@ -27,6 +27,6 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      
      <!--
      <p align="center">
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascr
+     <img src="https://devicons.github.io/devico
       </p>
      -->
