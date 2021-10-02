@@ -25,6 +25,4 @@ I'm Jameem and I develop things for the web. I have been in love with programmin
      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jameem&repo=donate-crypto&theme=radical)](https://github.com/jameem/donate-crypto)
     
      
-     <!--
  
-     -->
