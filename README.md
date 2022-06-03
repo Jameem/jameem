@@ -6,7 +6,7 @@ I'm Jameem and I develop things for the web. I'm always passionate about learnin
 - 🔭 Working on applications with **JavaScript**.
 - 🌱 Excited about **Blockchain Technology**
 - 👨‍💻 My works are available at [https://jameem.me](https://jameem.me)
-- 🔭 Explore my recent work, Zinia BSuite - managing business for small scale enterprises, http://zinia.tech
+- 🔭 Explore my recent project, Zinia BSuite - managing business for small scale enterprises, http://zinia.tech
 - 📫 Reach me through,
      
      [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jameem_mohd) 
