@@ -11,7 +11,7 @@ I'm Jameem and I develop things for the web. I'm always passionate about learnin
      
      [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jameem_mohd) 
      [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jameem/) 
-     [<img src="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />](https://jameem.me/)     
+     [<img src="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />](https://jameem.dev/)     
      
      
   
