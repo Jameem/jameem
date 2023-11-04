@@ -1,4 +1,4 @@
-<img src="https://jameem.github.io/profile/images/banner2.jpg">
+<img src="[https://jameem.github.io/profile/images/banner2.jpg](https://www.jameem.dev/img/github-banner.jpg)">
 
 ### Hello World 👋
 I'm Jameem and I develop things for the web. I'm always passionate about learning new things and here is where I keep my works.
