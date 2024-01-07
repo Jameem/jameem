@@ -4,7 +4,7 @@
 I'm Jameem and I develop things for the web. I'm always passionate about learning new things and here is where I keep my works.
 
 - 🔭 Working on applications with **JavaScript** and  **TypeScript**.
-- 👨‍💻 My works are available at [https://jameem.dev](https://jameem.dev)
+- 👨‍💻 You can learn more about me on my [portfolio](https://jameem.dev)
 - 🔭 Explore my recent projects,
      - [AI Text to Voice Generator](https://ai-text-to-voice.netlify.app/) - powered by OpenAI.
      - [AI Image Generator](https://ai-image-jm.netlify.app/) - powered by OpenAI.
