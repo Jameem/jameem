@@ -6,6 +6,9 @@ I'm Jameem and I develop things for the web. I'm always passionate about learnin
 - 🔭 Working on applications with **JavaScript** and  **TypeScript**.
 - 👨‍💻 You can learn more about me on my [portfolio](https://jameem.dev)
 - 🔭 Explore my recent projects,
+- 
+     - [Solar System](https://universe-threejs.netlify.app/) - powered by ThreeJS.
+     - [Earth](https://earth-mj.netlify.app/) - powered by ThreeJS.
      - [AI Text to Voice Generator](https://ai-text-to-voice.netlify.app/) - powered by OpenAI.
      - [AI Image Generator](https://ai-image-jm.netlify.app/) - powered by OpenAI.
      - [Zinia BSuite](http://app.zinia.tech) - managing business for small scale enterprises.
